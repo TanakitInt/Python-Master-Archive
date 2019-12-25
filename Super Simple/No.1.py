@@ -1,0 +1,10 @@
+def main():
+    name = input()
+    surname = input()
+    age = int(input())
+    school = input()
+    print ("name : "+name)
+    print ("surname : "+surname)
+    print ("age :" , age)
+    print ("school : "+school)
+main()
